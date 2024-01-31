@@ -1,7 +1,7 @@
 # Discord.js-NukeTool
 
 # Note :
-The license is **https://thedevjxa.gq** for copyright reasons.
+The license is **jxa** for copyright reasons.
 
 # Usage
 * Run the **installPackages.bat** file and then the **run.bat** and you should be all good to go!
